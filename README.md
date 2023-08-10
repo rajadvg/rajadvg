@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Rajashekar
+- 👀 I’m interested in learning core python and to develop innovative web application and mobile app
